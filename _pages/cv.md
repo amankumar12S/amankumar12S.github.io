@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: aman_kumar_cv.pdf
+cv_pdf: aman_kumar_cv.pdf.pdf
 ---
 
 **Download my full academic CV here:** <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer">Download CV</a>
