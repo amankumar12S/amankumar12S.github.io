@@ -13,7 +13,7 @@ profile:
     <p>Sikkim, India</p>
 
 selected_papers: false # Disables the clunky auto-generated list
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # this disables the news section
