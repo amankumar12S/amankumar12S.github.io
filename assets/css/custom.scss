@@ -4,3 +4,7 @@
 .fa-rss, i.fas.fa-rss, a[title="RSS Feed"], a[href$="/feed.xml"] {
     display: none !important;
 }
+/* Completely hide the bottom footer / copyright stripe */
+footer, .fixed-bottom {
+    display: none !important;
+}
