@@ -60,16 +60,21 @@ I specialize in engineering hardware-optimized models for constrained edge envir
 
 <br>
 
-### Independent Research Collective: Halo Mind
+### Independent Research Collective: [Halo Mind](https://halomind-research.github.io/)
 *Hybrid Architectures & Lightweight Optimization | Machine Intelligence & Neural Dynamics*
 
-I am the **Lead ML Systems Engineer** and co-founder of **Halo Mind**, an independent, interdisciplinary research collective alongside Lead Research Architect Latchan Chhetri. We bridge continuous physical dynamics with discrete neural computation, engineering hardware-efficient neural mechanisms like sub-quadratic **State Space Models (Mamba)** and **Deep Delta Learning (DDL)** to process high-throughput, volatile data streams. 
+I am the **Lead ML Systems Engineer** and co-founder of **[Halo Mind](https://halomind-research.github.io/)**, an independent, interdisciplinary research collective alongside Lead Research Architect Latchan Chhetri. We bridge continuous physical dynamics with discrete neural computation, engineering hardware-efficient neural mechanisms like sub-quadratic **State Space Models (Mamba)** and **Deep Delta Learning (DDL)** to process high-throughput, volatile data streams. 
 
 Operating outside traditional, heavily funded academic pipelines, our methodology is strictly driven by absolute resource constraints. This environment forces rigorous architectural innovation, exhaustive ablation, and mathematically bounded efficiency. 
 
 > **My Role: Lead ML Systems Engineer**
 > * **Focus:** Pipeline Optimization, Conformal Prediction, Applied Frameworks.
 > * **Execution:** I translate theoretical architectures into robust, hardware-optimized code. I manage complex spatial data pipelines and integrate advanced statistical frameworks to establish provable reliability and distribution-free uncertainty quantification.
+
+Our applied domains span extreme space weather forecasting (Ionospheric TEC), robust medical image analysis (Brain Tumor & Synthetic Dermatology), and low-resource sequence modeling for ancient epigraphy (Ashokan Brahmi). Prioritizing mathematical truth over brute-force computation, we design self-contained, uncertainty-aware frameworks capable of autonomous anomaly rejection and real-time distribution shift adaptation.
+
+*Visit the collective:* [halomind-research.github.io](https://halomind-research.github.io/)  
+*Contact:* `halomind.research.group@gmail.com`
 <hr>
 
 
