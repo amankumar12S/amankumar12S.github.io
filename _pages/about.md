@@ -60,10 +60,10 @@ I specialize in engineering hardware-optimized models for constrained edge envir
 
 <br>
 
-### Independent Research Collective: [Halo Mind](https://halomind-research.github.io/)
+### Independent Research Group: [Halo Mind](https://halomind-research.github.io/)
 *Hybrid Architectures & Lightweight Optimization | Machine Intelligence & Neural Dynamics*
 
-I am the **Lead ML Systems Engineer** and co-founder of **[Halo Mind](https://halomind-research.github.io/)**, an independent, interdisciplinary research collective alongside Lead Research Architect Latchan Chhetri. We bridge continuous physical dynamics with discrete neural computation, engineering hardware-efficient neural mechanisms like sub-quadratic **State Space Models (Mamba)** and **Deep Delta Learning (DDL)** to process high-throughput, volatile data streams. 
+I am the **Lead ML Systems Engineer** and co-founder of **[Halo Mind](https://halomind-research.github.io/)**, an independent, interdisciplinary research group alongside Lead Research Architect Latchan Chhetri. We bridge continuous physical dynamics with discrete neural computation, engineering hardware-efficient neural mechanisms like sub-quadratic **State Space Models (Mamba)** and **Deep Delta Learning (DDL)** to process high-throughput, volatile data streams. 
 
 Operating outside traditional, heavily funded academic pipelines, our methodology is strictly driven by absolute resource constraints. This environment forces rigorous architectural innovation, exhaustive ablation, and mathematically bounded efficiency. 
 
