@@ -73,7 +73,7 @@ Operating outside traditional, heavily funded academic pipelines, our methodolog
 
 Our applied domains span extreme space weather forecasting (Ionospheric TEC), robust medical image analysis (Brain Tumor & Synthetic Dermatology), and low-resource sequence modeling for ancient epigraphy (Ashokan Brahmi). Prioritizing mathematical truth over brute-force computation, we design self-contained, uncertainty-aware frameworks capable of autonomous anomaly rejection and real-time distribution shift adaptation.
 
-*Visit the collective:* [halomind-research.github.io](https://halomind-research.github.io/)  
+*Visit our Research Group at:* [halomind-research.github.io](https://halomind-research.github.io/)  
 *Contact:* `halomind.research.group@gmail.com`
 <hr>
 
