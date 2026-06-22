@@ -22,7 +22,7 @@ description: >
 footer_text: ""
 keywords: AI Researcher, Computer Vision, NLP, Edge AI, Deep Learning, Medical Imaging, PyTorch 
 lang: en 
-icon: 🚀 
+icon: 📖
 
 url: https://amankumar12S.github.io 
 baseurl: "" 
@@ -80,10 +80,10 @@ al_folio:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+search_enabled: false
+socials_in_search: false
+posts_in_search: false
+bib_search: false
 max_width: 930px
 
 # -----------------------------------------------------------------------------
