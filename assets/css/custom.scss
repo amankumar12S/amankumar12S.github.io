@@ -1,4 +1,6 @@
+---
+---
 /* Completely hide the RSS wifi icon */
-.fa-rss, i.fas.fa-rss, a[title="RSS Feed"] {
+.fa-rss, i.fas.fa-rss, a[title="RSS Feed"], a[href$="/feed.xml"] {
     display: none !important;
 }
