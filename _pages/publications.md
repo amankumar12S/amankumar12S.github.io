@@ -32,8 +32,8 @@ L. Chhetri,** A. Kumar**. (2026). "Optimizing Deep Learning for Brain Tumor Clas
 
 <hr>
 
-[**Beyond Limited Labels: Safe Semi-Supervised Learning for Malaria Diagnosis**](/publications/malaria-ssl/)  
-L. Chhetri,** A. Kumar**. (2026). "Beyond Limited Labels: Safe Semi-Supervised Learning for Malaria Diagnosis." IEEE DSAA (Under Review).
+[**Ionospheric TEC Forecasting via Deep Delta Learning**](/publications/tec-forecasting/)  
+ **A. Kumar**, L. Chhetri. (2026). "Ionospheric TEC Forecasting via Deep Delta Learning." Advances in Space Research (SCIE Q2) (Under Review).
 
 <hr>
 
@@ -42,8 +42,8 @@ L. Chhetri,** A. Kumar**. (2026). "Beyond Limited Labels: Safe Semi-Supervised L
 
 <hr>
 
-[**Ionospheric TEC Forecasting via Deep Delta Learning**](/publications/tec-forecasting/)  
- **A. Kumar**, L. Chhetri. (2026). "Ionospheric TEC Forecasting via Deep Delta Learning." Advances in Space Research (SCIE Q2) (Under Review).
+[**Beyond Limited Labels: Safe Semi-Supervised Learning for Malaria Diagnosis**](/publications/malaria-ssl/)  
+L. Chhetri,** A. Kumar**. (2026). "Beyond Limited Labels: Safe Semi-Supervised Learning for Malaria Diagnosis." IEEE DSAA (Under Review).
 
 <hr>
 
