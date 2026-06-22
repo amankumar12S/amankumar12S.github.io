@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["custom.scss"],"names":[],"mappings":"AACA,8DACI","sourcesContent":["/* Completely hide the RSS wifi icon */\n.fa-rss, i.fas.fa-rss, a[title=\"RSS Feed\"], a[href$=\"/feed.xml\"] {\n display: none !important;\n}\n"],"file":"custom.css"}
