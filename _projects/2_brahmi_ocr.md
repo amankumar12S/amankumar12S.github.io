@@ -2,7 +2,7 @@
 layout: page
 title: Degraded Ancient Ashokan Brahmi Script Recognition
 description: End-to-end OCR architecture and data generation pipeline targeting ICDAR (2027).
-img: assets/img/2.jpg
+img: /assets/img/brahmi_diagram.jpeg
 importance: 2
 category: research
 ---
