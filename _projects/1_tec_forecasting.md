@@ -2,7 +2,7 @@
 layout: page
 title: Ionospheric TEC Forecasting
 description: CNN-DDL architecture for real-time solar wind drivers and extreme geomagnetic superstorms.
-img: assets/img/tec_diagram.png
+img: /assets/img/1_tec_forecasting.md.png
 importance: 1
 category: research
 ---
