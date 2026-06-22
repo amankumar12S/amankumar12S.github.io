@@ -1,10 +1,16 @@
 ---
 ---
-/* Completely hide the RSS wifi icon */
-.fa-rss, i.fas.fa-rss, a[title="RSS Feed"], a[href$="/feed.xml"] {
+/* Hide WhatsApp icon just in case the config tries to force it */
+a[title="WhatsApp"], .fa-whatsapp {
     display: none !important;
 }
-/* Completely hide the bottom footer / copyright stripe */
-footer, .fixed-bottom {
+
+/* Completely kill the white footer block */
+footer, footer.fixed-bottom {
     display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none !important;
 }
