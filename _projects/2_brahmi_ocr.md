@@ -14,5 +14,5 @@ Leading a computer vision team alongside L. Chhetri, A. Anand, and G. Sarma to e
 * **Architecture Engineering:** Developed an end-to-end OCR architecture integrating SimCLR self-supervised pretraining on a ResNet34 backbone with a BiLSTM-CTC decoder.
 * **Benchmark Establishment:** Conducted a synthetic-to-real domain gap study, establishing the first severity-based Character Error Rate (CER) evaluation benchmark for ancient Indic scripts.
 
-**Role:** ML/CV Lead[cite: 2]  
+**Role:** ML/CV Lead 
 **Technologies Used:** `PyTorch`, `WGAN-GP`, `SimCLR`, `OCR Pipelines`
