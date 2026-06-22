@@ -1,6 +1,6 @@
 ---
 layout: page
-title: active research
+title: active research / projects
 permalink: /projects/
 description: My active research and ongoing AI pipelines.
 nav: true
