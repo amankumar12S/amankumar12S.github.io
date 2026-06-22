@@ -46,7 +46,7 @@ I specialize in engineering hardware-optimized models for constrained edge envir
 **Undergraduate AI Researcher & Team Lead**  
 *Sikkim Manipal Institute of Technology (SMIT)* | On-site | Aug 2024 – Present  
 * Directing multi-disciplinary deep learning research spanning medical image segmentation, remote sensing, and NLP-driven document analysis.
-* Integrating advanced statistical frameworks (Conformal Prediction, Deep Delta Learning) to establish provable reliability and uncertainty quantification in complex physical and visual systems[cite: 4].
+* Integrating advanced statistical frameworks (Conformal Prediction, Deep Delta Learning) to establish provable reliability and uncertainty quantification in complex physical and visual systems.
 
 <br>
 
@@ -60,17 +60,16 @@ I specialize in engineering hardware-optimized models for constrained edge envir
 
 <br>
 
-### Featured First-Author Research
+### Independent Research Collective: Halo Mind
+*Hybrid Architectures & Lightweight Optimization | Machine Intelligence & Neural Dynamics*
 
-#### [SPECTRAFORGE: Domain-Equalized Frequency-Spatial Fusion for Synthetic Dermatology Detection](/publications/spectraforge/)
-**Aman Kumar**, L. Chhetri, D. Das. (2026). "SPECTRAFORGE: Domain-Equalized Frequency-Spatial Fusion for Synthetic Dermatology Detection." IEEE DSAA (Under Review).
+I am the **Lead ML Systems Engineer** and co-founder of **Halo Mind**, an independent, interdisciplinary research collective alongside Lead Research Architect Latchan Chhetri. We bridge continuous physical dynamics with discrete neural computation, engineering hardware-efficient neural mechanisms like sub-quadratic **State Space Models (Mamba)** and **Deep Delta Learning (DDL)** to process high-throughput, volatile data streams. 
 
+Operating outside traditional, heavily funded academic pipelines, our methodology is strictly driven by absolute resource constraints. This environment forces rigorous architectural innovation, exhaustive ablation, and mathematically bounded efficiency. 
+
+> **My Role: Lead ML Systems Engineer**
+> * **Focus:** Pipeline Optimization, Conformal Prediction, Applied Frameworks.
+> * **Execution:** I translate theoretical architectures into robust, hardware-optimized code. I manage complex spatial data pipelines and integrate advanced statistical frameworks to establish provable reliability and distribution-free uncertainty quantification.
 <hr>
 
-#### [Ionospheric TEC Forecasting via Deep Delta Learning](/publications/tec-forecasting/)
-**Aman Kumar**, L. Chhetri. (2026). "Ionospheric TEC Forecasting via Deep Delta Learning." Advances in Space Research (SCIE Q2) (Under Review).
 
-<hr>
-
-#### [Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Deep Learning Architectures](/publications/solar-defect/)
-**Aman Kumar**, SR. Verma, H. Das, L. Chhetri, G. Sarma. (2026). "Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Deep Learning Architectures." ICCI (Under Review).
