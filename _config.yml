@@ -14,6 +14,7 @@ github_username: amankumar12S
 linkedin_username: aman-kumar-4a415a287
 scholar_userid: ""
 twitter_username: ""
+rss_icon: false
 
 contact_note: >
   Feel free to reach out via email for research collaborations, visiting researcher opportunities, or graduate admissions.
@@ -190,7 +191,6 @@ plugins:
   - jekyll-archives-v2
   - jekyll-cache-bust
   - jekyll-email-protect
-  - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
