@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:Co-Founder & Lead ML Engineer @HaloMind Research | AI Researcher @ Uni. of Salford (UK) & ISI Kolkata (India) |  Published Author (IEEE, Springer, T&F) | NLP, CV & more..
+subtitle: Co-Founder & Lead ML Engineer @HaloMind Research | AI Researcher @ Uni. of Salford (UK) & ISI Kolkata (India) |  Published Author (IEEE, Springer, T&F) | NLP, CV & more..
 
 profile:
   align: right
