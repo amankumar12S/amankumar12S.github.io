@@ -14,10 +14,9 @@ Satellite-based urban change detection enables an emerging generation of geospat
 * **Optimized BIT Implementation:** Corrected a widely propagated normalization error prevalent in BIT reimplementations (which incorrectly fed color-distorted inputs using ImageNet statistics), cleanly recovering full network accuracy without architectural changes.
 * **SOTA Benchmark Performance:** Achieved state-of-the-art results on the LEVIR-CD benchmark (F1=89.94% and IoU=81.72%), exceeding the originally reported numbers and outperforming the strongest purely convolutional baselines like FC-Siam-Diff.
 
-### Code & Resources
-The official PyTorch implementation and pre-trained weights will be made publicly available on GitHub following the conclusion of the double-blind review process.
+<a href="https://github.com/HaloMind-Research/Conformal-Satellite-Change-Detection" target="_blank" style="display: inline-block; padding: 4px 14px; background-color: #21262d; color: #c9d1d9; border: 1px solid #30363d; border-radius: 6px; text-decoration: none; font-size: 14px; transition: 0.2s;">Code & Resources</a>
 
 <hr>
 
 **Status:** Under Review at ICCI, 2026.
-**Authors:** A. Mukherjee, **Aman Kumar**, SR. Verma, H. Das, L. Chhetri, G. Sarma
+**Authors:** A. Mukherjee, Aman Kumar, SR. Verma, H. Das, L. Chhetri, G. Sarma
