@@ -14,11 +14,9 @@ Real-time land cover classification on autonomous satellites requires models tha
 * **Unmatched Edge Performance:** Achieved a DES of 9733.2 on the EuroSAT dataset, establishing a 13.1x relative deployment improvement over ResNet50 and an incredible 166.9x improvement over ViT-B/16.
 * **Architectural Necessity (Ablation):** Conducted rigorous ablation studies proving the structural necessity of the Deep Delta block; removing it completely abolishes residual connections and causes a catastrophic 58.38 percentage-point accuracy collapse.
 
-### Code & Resources
-[**Official PyTorch Implementation (GitHub)**](#)  
-*Repository goes live soon. Please contact me via email for early access to the codebase.*
+<a href="https://github.com/HaloMind-Research/DDV-Mamba_for_Efficient_Remote_Sensing" target="_blank" style="display: inline-block; padding: 4px 14px; background-color: #21262d; color: #c9d1d9; border: 1px solid #30363d; border-radius: 6px; text-decoration: none; font-size: 14px; transition: 0.2s;">Code & Resources</a>
 
 <hr>
 
 **Status:** Accepted at IEEE CONECCT, 2026.  
-**Authors:** L. Chhetri, **Aman Kumar**, G. Sarma
+**Authors:** L. Chhetri, Aman Kumar
