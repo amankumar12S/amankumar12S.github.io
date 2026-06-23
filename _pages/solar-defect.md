@@ -14,10 +14,7 @@ The reliability of solar energy infrastructure depends heavily on early detectio
 * **Graded Confidence Calibration:** Validated that graded fuzzy membership naturally resolves the inherent ambiguity in mild-defect classification, improving confidence calibration over hard softmax boundaries.
 * **Optimal Accuracy-Transparency Trade-off:** Achieved 80.96% overall accuracy with the Swin-Tiny architecture while simultaneously generating transparent IF-THEN decision boundaries for real-world solar farm operations.
 
-### Code & Resources
-[**Official PyTorch/Fuzzy Logic Pipeline (GitHub)**](#)  
-*Repository goes live soon. Please contact me via email for early access to the codebase.*
-
+<a href="https://github.com/HaloMind-Research/Interpretable-Solar-Defect-Detection" target="_blank" style="display: inline-block; padding: 4px 14px; background-color: #21262d; color: #c9d1d9; border: 1px solid #30363d; border-radius: 6px; text-decoration: none; font-size: 14px; transition: 0.2s;">Code & Resources</a>
 <hr>
 
 **Status:** Under Review at ICCI, 2026.
