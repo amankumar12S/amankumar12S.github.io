@@ -20,4 +20,4 @@ Code repository will be made available upon publication and conclusion of the do
 <hr>
 
 **Status:** Accepted for Oral Presentation at WIN 6.0, 2026.
-**Authors:** R. Das, L. Chhetri, **Aman Kumar**, P. Ghosal
+**Authors:** R. Das, L. Chhetri, Aman Kumar, P. Ghosal
