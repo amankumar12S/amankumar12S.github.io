@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Researcher | IEEE & Springer Published Author | NLP & Computer Vision | Hardware-Optimized Edge AI | Deep/Machine Learning
+subtitle:Co-Founder & Lead ML Engineer @HaloMind Research | AI Researcher @ Uni. of Salford (UK) & ISI Kolkata (India) |  Published Author (IEEE, Springer, T&F) | NLP, CV & more..
 
 profile:
   align: right
@@ -27,10 +27,17 @@ latest_posts:
 ---
 
 ### About Me
-I am an Undergraduate AI Researcher and Team Lead pursuing my B.Tech in Computer Science & Engineering (Data Science) at the Sikkim Manipal Institute of Technology (SMIT). Operating at a graduate research level with multiple accepted publications, my work bridges the gap between advanced deep learning architectures and complex, real-world physical systems.
+I engineer highly robust, hardware-efficient predictive pipelines, specializing in Natural Language Processing (NLP), Computer Vision, and advanced sequence modeling. My primary objective is bridging the gap between theoretical deep learning and scalable, real-world deployment for high-stakes, computationally constrained environments.
 
-I specialize in engineering hardware-optimized models for constrained edge environments, building clinical medical diagnostic pipelines, and integrating advanced statistical frameworks (like Conformal Prediction and Deep Delta Learning) to establish provable reliability. **I am actively seeking international Master’s, Ph.D., and internship opportunities to push the boundaries of computational research.**
+Currently, I serve as Co-Founder and Lead AI Researcher at the Halo Mind Research Group, alongside dual AI Research Intern affiliations at the Indian Statistical Institute (ISI) Kolkata and the University of Salford (UK). I direct the formulation and code implementation of complex architectures targeting:
 
+Space AI & Remote Sensing: Engineering the DDV-GNet architecture for ultra-high-throughput aerospace defect detection (IEEE SPACE 2026) and Deep Delta Vision Mamba for lightweight satellite land-cover classification (IEEE CONECCT 2026), alongside real-time CNN-DDL frameworks for ionospheric TEC forecasting.
+
+Clinical NLP & Medical Vision: Leading neural extraction pipelines for complex clinical case report summarization (CLEF 2026 MultiClinSum-2) and developing robust brain tumor classification models using Attention-Enhanced Swin Transformers and SafeMed-SSL for reliable diagnostic pipelines.
+
+Cyber-Physical Resilience & Multimodal OCR: Formulating Intrinsic Neural Firewalls for adversarial anomaly rejection (Oral Presentation, WIN 6.0 2026) and engineering self-supervised, end-to-end CV/NLP architectures for digitizing degraded ancient Ashokan Brahmi scripts.
+
+With a portfolio of multiple accepted manuscripts across IEEE, Springer, and Taylor & Francis venues, my workflow is strictly driven by rigorous ablation, architectural optimization, mathematically sound uncertainty quantification (Conformal Prediction), and open-source reproducibility. I am currently advancing foundational AI representations in preparation for international Master's or Direct Ph.D. research for the Mid-2027 intake.
 <br>
 
 ### Experience
