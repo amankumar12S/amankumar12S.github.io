@@ -14,9 +14,7 @@ Deploying AI-based diagnostic tools in resource-constrained healthcare settings 
 * **Extreme Low-Resource Efficiency:** Maintained diagnostic accuracy while operating on an extreme low-resource constraint of only 20% labeled data (an 80% reduction in annotation requirements).
 * **Threshold Robustness:** Demonstrated that the architecture maintains consistent safety metrics across variable operating points, unlike standard fixed-threshold SSL methods that degrade upon relaxation.
 
-### Code & Resources
-[**Official PyTorch Implementation (GitHub)**](#)  
-*Repository goes live soon. Please contact me via email for early access to the codebase.*
+<a href="https://github.com/HaloMind-Research/SafeMed-SSL" target="_blank" style="display: inline-block; padding: 4px 14px; background-color: #21262d; color: #c9d1d9; border: 1px solid #30363d; border-radius: 6px; text-decoration: none; font-size: 14px; transition: 0.2s;">Code & Resources</a>
 
 <hr>
 
