@@ -18,4 +18,4 @@ The reliability of solar energy infrastructure depends heavily on early detectio
 <hr>
 
 **Status:** Under Review at ICCI, 2026.
-**Authors:** **Aman Kumar**, SR. Verma, H. Das, L. Chhetri, G. Sarma
+**Authors:** Aman Kumar, SR. Verma, H. Das, L. Chhetri, G. Sarma
