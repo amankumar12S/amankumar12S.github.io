@@ -14,9 +14,7 @@ This work fills an important gap in the literature on brain tumor classification
 * **Constructive Preprocessing Paradigm:** Validated that edge-aware bilateral filtering acts as a “constructive” preprocessing step, suppressing noise without blurring anatomical boundaries, achieving an optimal 93.86% accuracy.
 * **Algorithmic Patient-Level Splitting:** Implemented strict regex-based patient ID grouping and perceptual hash checking to guarantee zero patient overlap between splits, providing realistic performance metrics over inflated baseline claims.
 
-### Code & Resources
-[**Official Jupyter/PyTorch Pipeline (GitHub)**](#)  
-*Repository goes live soon. Please contact me via email for early access to the codebase.*
+<a href="https://github.com/HaloMind-Research/Optimizing-Deep-Learning-for-Brain-Tumor-Classification" target="_blank" style="display: inline-block; padding: 4px 14px; background-color: #21262d; color: #c9d1d9; border: 1px solid #30363d; border-radius: 6px; text-decoration: none; font-size: 14px; transition: 0.2s;">Code & Resources</a>
 
 <hr>
 
