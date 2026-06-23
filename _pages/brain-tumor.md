@@ -19,4 +19,4 @@ This work fills an important gap in the literature on brain tumor classification
 <hr>
 
 **Status:** Accepted at IEEE GCON, 2026.  
-**Authors:** L. Chhetri, **Aman Kumar**
+**Authors:** L. Chhetri, Aman Kumar
