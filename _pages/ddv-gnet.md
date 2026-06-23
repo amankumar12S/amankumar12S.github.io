@@ -21,4 +21,4 @@ Real-time defect detection for space manufacturing and satellite components’ q
 <hr>
 
 **Status:** Accepted for Oral Presentation at IEEE SPACE, 2026.
-**Authors:** L. Chhetri, Aman Kumar
+**Authors:** L. Chhetri, **A. Kumar**
