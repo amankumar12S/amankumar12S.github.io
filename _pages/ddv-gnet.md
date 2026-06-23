@@ -15,8 +15,8 @@ Real-time defect detection for space manufacturing and satellite components’ q
 * **SOTA Efficiency-Accuracy Trade-off:** Demonstrated 95.9% classification accuracy on a highly imbalanced space manufacturing defect dataset, outperforming heavier models like ResNet-50 and standard Swin Transformers in both speed and efficiency.
 
 ### Code & Resources
-[**Official PyTorch Implementation (GitHub)**](#)  
-*Repository goes live soon. Please contact me via email for early access to the codebase.*
+[**Official PyTorch Implementation (GitHub)**](https://github.com/HaloMind-Research/DDV-GNet-Space)  
+
 
 <hr>
 
