@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Co-Founder & Lead ML Engineer @HaloMind Research | AI Researcher at Uni. of Salford (UK) & ISI Kolkata (India) |  Published Author (IEEE, Springer, T&F) | NLP, CV & more
+subtitle: AI Researcher @ <a href="https://www.isical.ac.in/">ISI Kolkata</a> & <a href="https://www.salford.ac.uk/">Univ. of Salford (UK)</a> | Co-Founder @ <a href="https://halomind-research.github.io/">Halo Mind Research</a> | Computer Vision, Deep Delta Learning & Conformal Prediction | Fall '27 MS/PhD Applicant
 
 profile:
   align: right
@@ -26,20 +26,55 @@ latest_posts:
   limit: 3
 ---
 
-### About Me
-I engineer highly robust, hardware-efficient predictive pipelines, specializing in Natural Language Processing (NLP), Computer Vision, and advanced sequence modeling. My primary objective is bridging the gap between theoretical deep learning and scalable, real-world deployment for high-stakes, computationally constrained environments.
+## About Me
 
-Currently, I serve as Co-Founder and Lead AI Researcher at the Halo Mind Research Group, alongside dual AI Research Intern affiliations at the Indian Statistical Institute (ISI) Kolkata and the University of Salford (UK). I direct the formulation and code implementation of complex architectures targeting:
+I am a computer vision and deep learning researcher focused on a core question: **how do we make neural networks trustworthy when real-world data is scarce, physically degraded, or out-of-distribution?**
 
-Space AI & Remote Sensing: Engineering the DDV-GNet architecture for ultra-high-throughput aerospace defect detection (IEEE SPACE 2026) and Deep Delta Vision Mamba for lightweight satellite land-cover classification (IEEE CONECCT 2026), alongside real-time CNN-DDL frameworks for ionospheric TEC forecasting.
+Rather than scaling model size on clean benchmarks, I design systems that hold up in constrained, high-stakes environments. My work spans multiple physical and clinical regimes—including **medical imaging and clinical diagnostics, space-weather forecasting, aerospace manufacturing inspection, satellite remote sensing, underwater visual restoration, and degraded ancient script recognition**.
 
-Clinical NLP & Medical Vision: Leading neural extraction pipelines for complex clinical case report summarization (CLEF 2026 MultiClinSum-2) and developing robust brain tumor classification models using Attention-Enhanced Swin Transformers and SafeMed-SSL for reliable diagnostic pipelines.
+Currently, I serve as a Research Intern in the **CVPR Unit at the Indian Statistical Institute (ISI), Kolkata** under **Prof. Umapada Pal**, and at **The University of Salford, UK** under **Dr. Shivakumara Palaiahnakote**. Alongside these appointments, I lead an undergraduate research team in the Department of AI & Data Science at **SMIT** under **Dr. Palash Ghosal** and co-founded the **[Halo Mind Research Group](https://halomind-research.github.io/)**.
 
-Cyber-Physical Resilience & Multimodal OCR: Formulating Intrinsic Neural Firewalls for adversarial anomaly rejection (Oral Presentation, WIN 6.0 2026) and engineering self-supervised, end-to-end CV/NLP architectures for digitizing degraded ancient Ashokan Brahmi scripts.
+***
 
-With a portfolio of multiple accepted manuscripts across IEEE, Springer, and Taylor & Francis venues, my workflow is strictly driven by rigorous ablation, architectural optimization, mathematically sound uncertainty quantification (Conformal Prediction), and open-source reproducibility. I am currently advancing foundational AI representations in preparation for international Master's or Direct Ph.D. research for the Mid-2027 intake.
-<br>
+## What I Bring to the Table
 
+* **Architecture Design & Efficiency:** Building lightweight, physics-informed vision backbones, Deep Delta Gated networks, and frequency-spatial fusion modules that generalize strongly without massive compute overhead.
+* **Learning Under Scarcity:** Engineering physically motivated synthetic data pipelines (WGAN-GP) and self-supervised pretraining strategies (SimCLR) when ground-truth annotations are scarce or expensive to curate.
+* **Provable Reliability & Rigor:** Stress-testing models beyond standard accuracy metrics through strict ablation studies, zero-shot cross-domain evaluation, and distribution-free **Conformal Prediction** for guaranteed uncertainty bounds.
+* **Cross-Domain Versatility:** Translating foundational computer vision and multimodal representation learning principles across clinical dermatology, orbital space weather, turbid underwater optics, historical epigraphy, and socio-political media.
+
+I am actively applying to **Master's and Direct Ph.D. programs for the Fall 2027 intake**. Feel free to reach out for research collaborations or graduate opportunities at **[ak2281198@gmail.com](mailto:ak2281198@gmail.com)**.
+
+***
+
+## Research Experience
+
+**Research Intern — Computer Vision & Pattern Recognition (CVPR) Unit**  
+*Indian Statistical Institute (ISI), Kolkata | Supervisor: Prof. Umapada Pal | Jun 2026 – Present (Hybrid)*
+* Co-leading recognition of degraded ancient Ashokan Brahmi inscriptions under extreme real-label scarcity by building a physically motivated **WGAN-GP** synthetic pipeline (20K+ synthetic characters, 150K degraded sequences) and a **SimCLR-pretrained ResNet-34 + BiLSTM-CTC** recognizer (Target: ICDAR 2027).
+* Exploring segmentation-free visual restoration of weathered stone inscriptions and establishing the first degradation-graded Character Error Rate (CER) benchmark for ancient Indic scripts.
+
+**Research Intern — Multimodal Vision & Sequence Modeling**  
+*The University of Salford, UK | Supervisor: Dr. Shivakumara Palaiahnakote | Jun 2026 – Present (Remote)*
+* Modeling unconstrained scene and document text lines as continuous sequences to bypass brittle character-level segmentation bottlenecks.
+* Building a multimodal **Vision-Language Model (VLM)** pipeline that jointly reasons over visual caricatures and written captions in Indian editorial cartoons to classify satire, political criticism, and social conflict.
+
+**Research Assistant & Undergraduate Team Lead**  
+*Dept. of AI & Data Science, Sikkim Manipal Institute of Technology (SMIT) | Supervisor: Dr. Palash Ghosal | Aug 2024 – Present (On-site)*
+* Lead a student research team from problem formulation and ablation design to manuscript preparation across space weather, remote sensing, defect detection, and medical imaging.
+* Spearheaded first-author research on zero-shot cross-solar-cycle ionospheric TEC forecasting using **Deep Delta Learning (CNN-DDL)** and split conformal prediction (achieving 2.30 TECU RMSE and 90% empirical storm coverage; *Under Review, WACV 2027*), alongside accepted papers at **ICVGIP 2026** and **WIN 6.0**.
+
+**Co-Founder & Lead AI Researcher**  
+*[Halo Mind Research Group](https://halomind-research.github.io/) | Co-founded with L. Chhetri | Jan 2026 – Present (Independent)*
+* Co-founded an independent undergraduate research group focused on hardware-efficient vision models, physics-guided restoration, and rigorous uncertainty quantification.
+* Group output includes equal-first-author work at **IEEE DSAA 2026** (*SPECTRAFORGE*), **ICVGIP 2026** (*Fuzzy Rule Extraction*), **IEEE SPACE 2026** (*DDV-GNet*), **ICCI 2026**, and the **Halo-Hydra** patent.
+
+***
+
+## Academic Service
+
+* **Technical Peer Reviewer:** Indian Conference on Computer Vision, Graphics and Image Processing (**ICVGIP 2026**); **IEEE GCON 2026**.
+* **Conference Presentations (2026):** Short Oral Presentation at **IEEE DSAA 2026** (New Delhi); Oral Presentation at **IEEE SPACE 2026** (Bengaluru); Paper Presentation at **IEEE GCON 2026** (IIT Guwahati).
 ### Experience
 
 **Research Intern (Computer Vision & Deep Learning)**  
