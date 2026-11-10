@@ -7,45 +7,56 @@ nav: true
 nav_order: 2
 ---
 
-#### [DDV-GNet: High-Throughput Defect Detection for Space Manufacturing via Deep Delta Gated Networks](/publications/ddv-gnet/)
-L. Chhetri, **A. Kumar**. (2026). "DDV-GNet: High-Throughput Defect Detection for Space Manufacturing via Deep Delta Gated Networks." IEEE SPACE (Accepted for Oral Presentation).
+## Published & Accepted
 
-<hr>
+### [SPECTRAFORGE: Domain-Equalized Frequency-Spatial Fusion for Synthetic Dermatology Detection](#)
+**A. Kumar**, L. Chhetri, D. Das. (2026). “SPECTRAFORGE: Domain-Equalized Frequency-Spatial Fusion for Synthetic Dermatology Detection.” *IEEE International Conference on Data Science and Advanced Analytics (IEEE DSAA 2026)* — **Accepted for Short Oral Presentation** (New Delhi, India).
 
-#### [Intrinsic Neural Firewalls for Cyber-Physical Systems: Robust Anomaly Rejection via Deep Delta Residual Overwrites](/publications/neural-firewalls/)
-R. Das, L. Chhetri, **A. Kumar**, P. Ghosal. (2026). "Intrinsic Neural Firewalls for Cyber-Physical Systems: Robust Anomaly Rejection via Deep Delta Residual Overwrites." WIN 6.0 (Accepted for Oral Presentation).
+---
 
-<hr>
+### [Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Hierarchical Vision Models](#)
+L. Chhetri\*, **A. Kumar\***, D. Das, P. Ghosal. (2026). “Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Hierarchical Vision Models.” *Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP 2026), ACM ICPS* — **Accepted** (\*Equal contribution).
 
-#### [SPECTRAFORGE: Domain-Equalized Frequency-Spatial Fusion for Synthetic Dermatology Detection](/publications/spectraforge/)
-**A. Kumar**, L. Chhetri, D. Das. (2026). "SPECTRAFORGE: Domain-Equalized Frequency-Spatial Fusion for Synthetic Dermatology Detection." IEEE DSAA (Under Review).
+---
 
-<hr>
+### [DDV-GNet: High-Throughput Defect Detection for Space Manufacturing via Deep Delta Gated Networks](#)
+L. Chhetri, **A. Kumar**. (2026). “DDV-GNet: High-Throughput Defect Detection for Space Manufacturing via Deep Delta Gated Networks.” *IEEE SPACE 2026* — **Accepted for Oral Presentation** (Bengaluru, India).
 
-#### [Optimizing Deep Learning for Brain Tumor Classification: A Comparative Ablation Study of Preprocessing and Augmentation Strategies](/publications/brain-tumor/)
-L. Chhetri, **A. Kumar**. (2026). "Optimizing Deep Learning for Brain Tumor Classification: A Comparative Ablation Study of Preprocessing and Augmentation Strategies." IEEE GCON (Accepted).
+---
 
-<hr>
+### [Optimizing Deep Learning for Brain Tumor Classification: A Comparative Ablation Study of Preprocessing and Augmentation Strategies](https://doi.org/10.1109/GCON69192.2026.11649062)
+L. Chhetri, **A. Kumar**. (2026). “Optimizing Deep Learning for Brain Tumor Classification: A Comparative Ablation Study of Preprocessing and Augmentation Strategies.” *IEEE GCON 2026* — **Published** (IIT Guwahati, India). DOI: [10.1109/GCON69192.2026.11649062](https://doi.org/10.1109/GCON69192.2026.11649062)
 
-#### [Deep Delta Vision Mamba: A Lightweight State Space Architecture with Deep Delta Learning for Efficient Remote Sensing](/publications/ddv-mamba/)
-L. Chhetri, **A. Kumar**, G. Sarma. (2026). "Deep Delta Vision Mamba: A Lightweight State Space Architecture with Deep Delta Learning for Efficient Remote Sensing." IEEE CONECCT (Accepted).
+---
 
-<hr>
+### [Risk-Controlled Urban Change Detection: Conformal Prediction Wrappers for Provable Reliability in High-Resolution Satellite Imagery](#)
+A. Mukherjee, **A. Kumar**, S. Bala, S. R. Varma, A. Anand, H. Das, L. Chhetri. (2026). “Risk-Controlled Urban Change Detection: Conformal Prediction Wrappers for Provable Reliability in High-Resolution Satellite Imagery.” *ICCI 2026* — **Accepted for Oral Presentation**.
 
-#### [Ionospheric TEC Forecasting via Deep Delta Learning](/publications/tec-forecasting/)
-**A. Kumar**, L. Chhetri. (2026). "Ionospheric TEC Forecasting via Deep Delta Learning." Advances in Space Research (SCIE Q2) (Under Review).
+---
 
-<hr>
+### [Intrinsic Neural Firewalls for Cyber-Physical Systems: Robust Anomaly Rejection via Deep Delta Residual Overwrites](#)
+R. Das, L. Chhetri, **A. Kumar**, P. Ghosal. (2026). “Intrinsic Neural Firewalls for Cyber-Physical Systems: Robust Anomaly Rejection via Deep Delta Residual Overwrites.” *WIN 6.0 (2026)* — **Accepted for Oral Presentation**.
 
-#### [Risk-Controlled Urban Change Detection: Conformal Prediction Wrappers for Provable Reliability in High-Resolution Satellite Imagery](/publications/urban-change-cp/)
-A. Mukherjee, **A. Kumar**, SR. Verma, H. Das, L. Chhetri, G. Sarma. (2026). "Risk-Controlled Urban Change Detection: Conformal Prediction Wrappers for Provable Reliability in High-Resolution Satellite Imagery." ICCI (Under Review).
+---
 
-<hr>
+## Preprints & Under Review
 
-#### [Beyond Limited Labels: Safe Semi-Supervised Learning for Malaria Diagnosis](/publications/malaria-ssl/)
-L. Chhetri, **A. Kumar**. (2026). "Beyond Limited Labels: Safe Semi-Supervised Learning for Malaria Diagnosis." IEEE DSAA (Under Review).
+### [Trust, but Verify: Epistemic Uncertainty-Gated Pseudo-Labeling for Safer Semi-Supervised Malaria Screening](https://doi.org/10.64898/2026.10.13.758712)
+**A. Kumar**, A. Anand, L. Chhetri. (2026). “Trust, but Verify: Epistemic Uncertainty-Gated Pseudo-Labeling for Safer Semi-Supervised Malaria Screening.” *bioRxiv*. DOI: [10.64898/2026.10.13.758712](https://doi.org/10.64898/2026.10.13.758712)
 
-<hr>
+---
 
-#### [Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Deep Learning Architectures](/publications/solar-defect/)
-**A. Kumar**, SR. Verma, H. Das, L. Chhetri, G. Sarma. (2026). "Interpretable Solar Panel Defect Detection via Fuzzy Rule Extraction from Deep Learning Architectures." ICCI (Under Review).
+### [DVARA: Frequency Gates for Adapting Frozen Underwater Image Enhancement Networks](https://doi.org/10.20944/preprints202610.1474.v1)
+**A. Kumar\***, A. Anand\*, L. Chhetri\*. (2026). “DVARA: Frequency Gates for Adapting Frozen Underwater Image Enhancement Networks.” *Preprints.org* (\*Equal contribution). DOI: [10.20944/preprints202610.1474.v1](https://doi.org/10.20944/preprints202610.1474.v1)
+
+---
+
+### [Cross-Cycle Ionospheric TEC Forecasting via Deep Delta Learning and Conformal Prediction](#)
+**A. Kumar**, P. Ghosal. (2026). “Cross-Cycle Ionospheric TEC Forecasting via Deep Delta Learning and Conformal Prediction.” *Under Review at IEEE/CVF WACV 2027*.
+
+---
+
+## Patent
+
+### [Halo-Hydra: A Physics-Informed Generative Framework for Multimodal Visual Restoration in Underwater-Turbid and Degraded Scattering Environments](#)
+**A. Kumar**, et al. (2026). “Halo-Hydra: A Physics-Informed Generative Framework for Multimodal Visual Restoration in Underwater-Turbid and Degraded Scattering Environments.” *Indian Patent Office / PCT Application* — **Filed (Pending)**.
